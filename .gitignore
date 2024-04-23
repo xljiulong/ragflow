@@ -21,3 +21,4 @@ Cargo.lock
 
 .idea/
 .vscode/
+docker/ragflow-logs/
